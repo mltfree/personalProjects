@@ -1,1 +1,1 @@
-# personalProjects
+# A few sample projects
