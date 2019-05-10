@@ -12,15 +12,26 @@ Screen/Function Walkthrough :
 Simple landing page with and image picker button
 
 
+![alt text](https://github.com/mltfree/personalProjects/blob/master/mobileAppDev/qr-bar-code-reader/images/1%20LandingPage.JPG)
+
+
 ## 2)  The image picker
 
 The image picker gives you the ability to load saved images for scanning, note that the image source can be updated 
 to use the camera on the phone
 
+![alt text](https://github.com/mltfree/personalProjects/blob/master/mobileAppDev/qr-bar-code-reader/images/2%20Image%20Picker.JPG)
+
 
 ## 3) Example 1 : QR code Scanned
 
+![alt text](https://github.com/mltfree/personalProjects/blob/master/mobileAppDev/qr-bar-code-reader/images/3%20QR%20Code%20Scanned.JPG)
+
+
 ## 4) Example 2 : Bar code Scanned
+
+![alt text](https://github.com/mltfree/personalProjects/blob/master/mobileAppDev/qr-bar-code-reader/images/Bar%20Code%20Scanned.JPG)
+
 
 
 
