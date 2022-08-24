@@ -10,3 +10,4 @@
   1) user authentication
   2) passing information between screens and DB read/write 
 
+### iot->nodeMCU Includes files from some prev. work connecting a firebase DB to a nodeMCU
